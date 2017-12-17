@@ -1,4 +1,3 @@
-document.querySelector('#btn').addEventListener('click', () = > {
-    alert('66'
-)
+document.querySelector('#btn').addEventListener('click',()=>{
+    alert('66')
 })
