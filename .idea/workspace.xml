@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aaae021-9891-4115-a288-0b067d9dd8f4" name="默认" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/3-http/2-http.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3-http/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3-http/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/3-http/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/3-http/1-http.js" afterPath="$PROJECT_DIR$/3-http/1-http.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -76,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/3-http/2-http.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -86,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/3-http/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="149">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="19" />
+              <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -270,7 +264,7 @@
       <updated>1513429532125</updated>
       <workItem from="1513429533480" duration="70000" />
       <workItem from="1513438305308" duration="1086000" />
-      <workItem from="1513491495046" duration="7639000" />
+      <workItem from="1513491495046" duration="7700000" />
     </task>
     <task id="LOCAL-00001" summary="启动第一个服务器">
       <created>1513496396150</created>
@@ -279,11 +273,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513496396151</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="启动第二个服务器">
+      <created>1513499915179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513499915179</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8795000" />
+    <option name="totallyTimeSpent" value="8856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -315,7 +316,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="启动第一个服务器" />
-    <option name="LAST_COMMIT_MESSAGE" value="启动第一个服务器" />
+    <MESSAGE value="启动第二个服务器" />
+    <option name="LAST_COMMIT_MESSAGE" value="启动第二个服务器" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -405,7 +410,7 @@
     <entry file="file://$PROJECT_DIR$/3-http/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="19" />
+          <caret line="9" column="15" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -429,7 +434,7 @@
     <entry file="file://$PROJECT_DIR$/3-http/2-http.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding />
         </state>
       </provider>
