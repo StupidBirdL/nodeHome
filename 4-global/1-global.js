@@ -1,6 +1,6 @@
 process.on('uncaughtException',(e)=>{
     console.log('uncaughtException',e.message)
-})
+});
 /*
 * global == winodw 全局对象
 * module        当前模块对象
@@ -34,11 +34,11 @@ process.stdin.on('data',(data)=>{
     console.log(data.toString())
 });
 process.on('exit',()=>{
-    console.log('退出前执行')
+    console.log('退出前执行');
 });
 try{
-    console.log(a)
+    console.log(a);
 }catch(e){
-    console.log(e.message)
+    console.log(e.message);
 }
-console.log(b)
+console.log(b);

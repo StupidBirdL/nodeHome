@@ -5,6 +5,7 @@ const mime = require('mime');
 const server = http.createServer(ser);
 function ser(request, response) {
     let url = request.url;
+    console.log(url);
     if (url == '/') {
         response.statusCode = 200;//设置响应状态码
         response.setHeader('Content-Type', 'text/html;charest=UTF-8'); //设置响应头信息
